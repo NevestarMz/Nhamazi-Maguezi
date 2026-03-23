@@ -15,7 +15,7 @@ git remote add origin https://github.com/NevestarMz/Nhamazi-Maguezi.git
  git remote add origin https://github.com/NevestarMz/Nhamazi-Maguezi.git
  git branch -M main 
 git push -u origin main
-``
+```
 
 ## About Laravel
 
